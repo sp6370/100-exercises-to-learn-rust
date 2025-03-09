@@ -31,7 +31,7 @@ mod tests {
 
     #[test]
     fn bool_to_u8() {
-        let v: u8 = todo!();
+        let v: u8 = 1;
         assert_eq!(true as u8, v);
     }
 }
